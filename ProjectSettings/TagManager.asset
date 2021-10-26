@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Asteroid
+  - Floor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Backdrop
+    uniqueID: 543504489
+    locked: 0
+  - name: Tree Lighting
+    uniqueID: 1224814737
+    locked: 0
+  - name: Back Trees
+    uniqueID: 1147099151
+    locked: 0
+  - name: Front Trees
+    uniqueID: 389190745
+    locked: 0
+  - name: Player
+    uniqueID: 1215933961
+    locked: 0
+  - name: Asteroid
+    uniqueID: 16122587
+    locked: 0
