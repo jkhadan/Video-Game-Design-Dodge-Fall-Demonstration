@@ -1,7 +1,8 @@
 # Dodgefall Unity Demonstration
+https://imgur.com/a/uDf3zry
 This project outlines the various aspects of Unity that went into creating this simple 2D game in which you are tasked with avoiding incoming objects. Hopefully the team can use this project as practice before diving into our final project.
 
-![[Demonstration.gif]]
+
 ## Goals
 There are three main goals that are hoped to be accomplished with this project:
 - The teams can learn how to work with Unity, Github and eachother
@@ -18,7 +19,7 @@ The development team will be responsible for writing the code, arranging the obj
 - C#
 
 ### Conventions
-![[Pasted image 20211026070052.png]]
+![Pasted image 20211026070052](https://user-images.githubusercontent.com/7041958/138867339-b3e4938f-2fb4-4d5d-9217-a8cdc64e212a.png)
 In order for the team to be more streamline, organized and consistent we must adhere and maintain a certain standard when it comes to writing our code.
 
 I suggest adding comments to lines on your code in order to explain what you are doing along the way
